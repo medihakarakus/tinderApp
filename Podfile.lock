@@ -1,0 +1,26 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - LBTATools (1.0.12)
+  - SDWebImage (5.15.7):
+    - SDWebImage/Core (= 5.15.7)
+  - SDWebImage/Core (5.15.7)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - LBTATools
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - LBTATools
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  SDWebImage: 25bac438318faf37e35650619ebc288a9061d292
+
+PODFILE CHECKSUM: 3fc060760342afaf849d477194aa102ca10e904b
+
+COCOAPODS: 1.11.3
