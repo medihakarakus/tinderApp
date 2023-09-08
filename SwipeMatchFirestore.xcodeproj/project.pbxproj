@@ -13,7 +13,6 @@
 		44AB9A7629F95410008E825D /* RegistrationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AB9A7529F95410008E825D /* RegistrationController.swift */; };
 		44AB9A7829F9B9BA008E825D /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AB9A7729F9B9BA008E825D /* CustomTextField.swift */; };
 		44AB9A7A29FA6635008E825D /* RegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AB9A7929FA6635008E825D /* RegistrationViewModel.swift */; };
-		44AB9A7C29FA8B9D008E825D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 44AB9A7B29FA8B9D008E825D /* GoogleService-Info.plist */; };
 		44AB9A7F29FA8CD5008E825D /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 44AB9A7E29FA8CD5008E825D /* FirebaseAuth */; };
 		44AB9A8129FA8CD5008E825D /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 44AB9A8029FA8CD5008E825D /* FirebaseDatabase */; };
 		44AB9A8329FA8CD5008E825D /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 44AB9A8229FA8CD5008E825D /* FirebaseFirestore */; };
@@ -62,7 +61,6 @@
 		44AB9A7529F95410008E825D /* RegistrationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationController.swift; sourceTree = "<group>"; };
 		44AB9A7729F9B9BA008E825D /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		44AB9A7929FA6635008E825D /* RegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewModel.swift; sourceTree = "<group>"; };
-		44AB9A7B29FA8B9D008E825D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		44AB9A8629FAA8F4008E825D /* Bindable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bindable.swift; sourceTree = "<group>"; };
 		44AB9A882A01151F008E825D /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
 		44AB9A8A2A0138E5008E825D /* SettingsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsCell.swift; sourceTree = "<group>"; };
@@ -208,7 +206,6 @@
 				44ADEE5829F6848100D3AA5C /* Assets.xcassets */,
 				44ADEE5A29F6848100D3AA5C /* LaunchScreen.storyboard */,
 				44ADEE5D29F6848100D3AA5C /* Info.plist */,
-				44AB9A7B29FA8B9D008E825D /* GoogleService-Info.plist */,
 			);
 			path = SwipeMatchFirestore;
 			sourceTree = "<group>";
@@ -330,7 +327,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				44ADEE5C29F6848100D3AA5C /* LaunchScreen.storyboard in Resources */,
-				44AB9A7C29FA8B9D008E825D /* GoogleService-Info.plist in Resources */,
 				44ADEE5929F6848100D3AA5C /* Assets.xcassets in Resources */,
 				44ADEE5729F6847F00D3AA5C /* Main.storyboard in Resources */,
 			);
