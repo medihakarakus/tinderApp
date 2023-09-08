@@ -14,5 +14,3 @@ A clone of the Tinder iOS app that lets people connect with each other. It has f
 3. Run `pod install` on the project directory
 4. Run the app
 
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-08 at 21 20 09]()
